@@ -1,0 +1,38 @@
+{
+  "name": "manage-invite",
+  "version": "2.6.0",
+  "description": "ManageInvite is the best bot to manage your server invites! Easy to setup, and complete!",
+  "main": "sharder.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "chalk": "^2.4.2",
+    "chart.js": "^2.9.4",
+    "chartjs-node-canvas": "^3.0.8",
+    "dblapi.js": "^2.4.1",
+    "discord-paginationembed": "^2.1.0",
+    "discord.js": "^12.5.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.7",
+    "ms": "^2.1.3",
+    "passport": "^0.4.0",
+    "passport-discord": "^0.1.3",
+    "string-similarity": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Androz2091/manage-invite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Androz2091/manage-invite/issues"
+  },
+  "homepage": "https://github.com/Androz2091/manage-invite#readme"
+}
